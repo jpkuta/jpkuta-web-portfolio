@@ -1,13 +1,14 @@
 import React from 'react'
+import '../styles/Home.css'
 
 function Home() {
   return (
     <div className='home'>
       <div className='about'>
-        <h2>Welcome to Justin Kuta's webpage</h2>
+        <h2>Justin Kuta</h2>
         <div className='prompt'>
-          <p> Professionally, I am software developer with a passion for continuous learning and creating. Outside of professional software develoment spend my time enjoying music, art, food and having a good times with my friends. 
-              Other hobbies of mine include biking, fishing and playing guitar.
+          <p> Professionally, I am software developer with a passion for continuous learning and creating. <br/><br/>
+          Outside of professional software develoment spend my time enjoying music, art, food and having a good times with my friends. Other hobbies of mine include biking, fishing and playing guitar.
           </p>
         </div>
       </div>
