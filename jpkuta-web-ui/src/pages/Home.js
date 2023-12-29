@@ -8,7 +8,7 @@ function Home() {
         <h2>Justin Kuta</h2>
         <div className='prompt'>
           <p> Professionally, I am software developer with a passion for continuous learning and creating. <br/><br/>
-          Outside of professional software develoment spend my time enjoying music, art, food and having a good times with my friends. Other hobbies of mine include biking, fishing and playing guitar.
+          Outside of software develoment spend my time enjoying music, art, food and having a good times with my friends. Other hobbies of mine include biking, fishing and playing guitar.
           </p>
         </div>
       </div>

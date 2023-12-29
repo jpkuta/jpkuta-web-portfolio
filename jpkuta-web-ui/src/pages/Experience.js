@@ -73,6 +73,22 @@ function Experience() {
             
           </p>
         </VerticalTimelineElement>
+
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="2022 - 2023"
+          iconStyle={{ background: "#e9d35b", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Software Engineer - Quest Analytics
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">
+            Overland Park, KS
+          </h4>
+          <p>
+          Full stack software development of internal data processing tools with emphesis on responsive User Interface pages using React (Typescript).</p>
+        </VerticalTimelineElement>
       </VerticalTimeline>
     </div>
   );
