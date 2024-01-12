@@ -13,6 +13,7 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/" element={< Home/>} />
+          <Route path="/jpkuta-web-ui" element={< Home/>} />
           <Route path='/projects' element={< Projects/>} />
           <Route path='/experience' element={< Experience/>} />
         </Routes>
