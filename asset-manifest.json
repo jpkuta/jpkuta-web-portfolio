@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jpkuta-web-ui/static/css/main.9cd58e68.css",
-    "main.js": "/jpkuta-web-ui/static/js/main.8ffc5561.js",
-    "static/media/Zom-Bear-logos.jpeg": "/jpkuta-web-ui/static/media/Zom-Bear-logos.2a4256b1119ec6943650.jpeg",
-    "static/media/GolfcheryLogo.png": "/jpkuta-web-ui/static/media/GolfcheryLogo.74b306af03a2026bb4c5.png",
-    "index.html": "/jpkuta-web-ui/index.html",
-    "main.9cd58e68.css.map": "/jpkuta-web-ui/static/css/main.9cd58e68.css.map",
-    "main.8ffc5561.js.map": "/jpkuta-web-ui/static/js/main.8ffc5561.js.map"
+    "main.css": "/jpkuta.github.io/static/css/main.9cd58e68.css",
+    "main.js": "/jpkuta.github.io/static/js/main.81f4112f.js",
+    "static/media/Zom-Bear-logos.jpeg": "/jpkuta.github.io/static/media/Zom-Bear-logos.2a4256b1119ec6943650.jpeg",
+    "static/media/GolfcheryLogo.png": "/jpkuta.github.io/static/media/GolfcheryLogo.74b306af03a2026bb4c5.png",
+    "index.html": "/jpkuta.github.io/index.html",
+    "main.9cd58e68.css.map": "/jpkuta.github.io/static/css/main.9cd58e68.css.map",
+    "main.81f4112f.js.map": "/jpkuta.github.io/static/js/main.81f4112f.js.map"
   },
   "entrypoints": [
     "static/css/main.9cd58e68.css",
-    "static/js/main.8ffc5561.js"
+    "static/js/main.81f4112f.js"
   ]
 }
