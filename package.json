@@ -1,7 +1,7 @@
 {
   "name": "jpkuta.github.io",
   "version": "0.1.0",
-  "homepage": "http://jpkuta.github.io",
+  "homepage": "https://jpkuta.github.io/jpkuta.github.io",
   "private": false,
   "dependencies": {
     "@material-ui/icons": "^4.11.3",
