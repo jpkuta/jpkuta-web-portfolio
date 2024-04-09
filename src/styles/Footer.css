@@ -15,8 +15,9 @@
     margin: 20px;
     font-size: 70px;
     cursor: pointer;
+    text-decoration: none;
   }
-  
+
   .footer p {
     color: white;
   }
