@@ -1,5 +1,7 @@
 import React from 'react';
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
+import InstagramIcon from "@material-ui/icons/Instagram";
+import YouTubeIcon from '@mui/icons-material/YouTube';
 import '../styles/Footer.css'
 import { Link } from 'react-router-dom';
 
@@ -12,9 +14,16 @@ function Footer() {
     <div className='footer'>
         <div className='socialMedia'>
             {" "}
-            <LinkedInIcon>
-              <Link to={'https://www.linkedin.com/in/justin-kuta/'} />
-            </LinkedInIcon>
+            <Link to={'https://www.linkedin.com/in/justin-kuta/'} target="_blank" rel="noopener noreferrer">
+              <LinkedInIcon/>
+            </Link>  
+            <Link to={'https://www.instagram.com/jpkuta/'} target="_blank" rel="noopener noreferrer">
+              <InstagramIcon/>
+            </Link>  
+            <Link to={'https://youtube.com/@jpkuta?si=XpIG7F0xiFoS9w-U'} target="_blank" rel="noopener noreferrer">
+              <YouTubeIcon />
+            </Link>
+                        
             </div>
         <p> &copy; {year} jpkuta.github.io</p>
     </div>
