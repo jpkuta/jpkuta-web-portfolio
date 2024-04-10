@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jpkuta-web-portfolio/static/css/main.11bbf438.css",
-    "main.js": "/jpkuta-web-portfolio/static/js/main.a9f0dc86.js",
+    "main.css": "/jpkuta-web-portfolio/static/css/main.7ff6b70d.css",
+    "main.js": "/jpkuta-web-portfolio/static/js/main.1cac4dbb.js",
     "static/media/Zom-Bear-logos.jpeg": "/jpkuta-web-portfolio/static/media/Zom-Bear-logos.2a4256b1119ec6943650.jpeg",
     "static/media/AudioViz-logos.jpeg": "/jpkuta-web-portfolio/static/media/AudioViz-logos.3d08b285a719d17dbde7.jpeg",
     "static/media/GolfcheryLogo.png": "/jpkuta-web-portfolio/static/media/GolfcheryLogo.74b306af03a2026bb4c5.png",
     "index.html": "/jpkuta-web-portfolio/index.html",
-    "main.11bbf438.css.map": "/jpkuta-web-portfolio/static/css/main.11bbf438.css.map",
-    "main.a9f0dc86.js.map": "/jpkuta-web-portfolio/static/js/main.a9f0dc86.js.map"
+    "main.7ff6b70d.css.map": "/jpkuta-web-portfolio/static/css/main.7ff6b70d.css.map",
+    "main.1cac4dbb.js.map": "/jpkuta-web-portfolio/static/js/main.1cac4dbb.js.map"
   },
   "entrypoints": [
-    "static/css/main.11bbf438.css",
-    "static/js/main.a9f0dc86.js"
+    "static/css/main.7ff6b70d.css",
+    "static/js/main.1cac4dbb.js"
   ]
 }
